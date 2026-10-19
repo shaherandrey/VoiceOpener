@@ -2,27 +2,27 @@ Voice Opener
 
 A simple Python voice assistant that launches Visual Studio Code in response to spoken commands.
 
-Features
+Features:
 
-Speech recognition through a microphone
+Speech recognition through a microphone,
 
-Russian voice commands
+Russian voice commands,
 
-Launching Visual Studio Code by voice
+Launching Visual Studio Code by voice,
 
 Continuous listening for commands
 
-Technologies
+Technologies:
 
-Python
+Python,
 
-SpeechRecognition
+SpeechRecognition,
 
-PyAudio
+PyAudio,
 
 Google Speech Recognition API
 
-Installation
+Installation:
 
 Install the dependencies:
 
@@ -30,7 +30,7 @@ py -m pip install -r requirements.txt
 
 Make sure your microphone is connected and Visual Studio Code is installed.
 
-Usage
+Usage:
 
 Run the script:
 
